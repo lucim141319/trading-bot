@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+python-binance==1.0.19
+asyncio
